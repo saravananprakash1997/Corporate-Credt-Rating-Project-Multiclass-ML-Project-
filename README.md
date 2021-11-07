@@ -1,1 +1,1 @@
-# Corporate-Credt-Rating-Project-Multiclass-ML-Project-
+# Corporate-Credit-Rating-Project-Multiclass-ML-Project-
